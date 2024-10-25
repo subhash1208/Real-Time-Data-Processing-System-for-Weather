@@ -40,7 +40,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Pranay1005/Zeotap_Assigment2.git"
+   git clone "https://github.com/subhash1208/Real-Time-Data-Processing-System-for-Weather.git"
    cd App2-Weather-app
    ```
 
